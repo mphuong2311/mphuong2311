@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native, MERN**
 
-- 💬 Ask me about **VueJS**
+- 💬 Ask me about **VueJS, NodeJS, MQTT**
 
 - 📫 How to reach me **minhphuongitst@gmail.com**
 
