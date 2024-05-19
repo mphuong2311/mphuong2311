@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Tien</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" alt="Coding" width="400" 
 
 - 🔭 I’m currently working on [Autonomous Vehicle](https://phenikaa-x.com)
 
