@@ -5,11 +5,11 @@
 Welcome to my GitHub profile! I'm a passionate developer with 6 years of experience in the web development industry. I focus on building robust and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I also have extensive knowledge in DevOps practices, Docker, and WordPress, among other web development technologies.
 
 ## 🔧 Technologies & Tools
-- **Frontend:** React.js, Vue.js, HTML5, CSS3, JavaScript (ES6+), Material-UI
+- **Frontend:** React.js, Vue.js, HTML5, CSS3, JavaScript (ES6+), Material-UI, Element-UI
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
-- **DevOps:** Docker, Kubernetes, Jenkins, CI/CD
+- **DevOps:** Docker, CI/CD
 - **CMS:** WordPress
-- **Others:** Git, RESTful APIs, GraphQL, WebSockets, Nginx
+- **Others:** Git, RESTful APIs, WebSockets, Nginx
 
 ## 📫 Get in Touch
 - **Email:** minhphuongitst@gmail.com
