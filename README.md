@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Minh Tien Nguyen!
+# 👋 Hi there!
 
 ### 🛠️ Full-Stack Web Developer | MERN Stack Enthusiast | DevOps Advocate
 
