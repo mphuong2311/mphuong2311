@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with 6 years of experie
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **DevOps:** Docker, CI/CD
 - **CMS:** WordPress
-- **Others:** Git, RESTful APIs, WebSockets, Nginx
+- **Others:** Git, RESTful APIs, Socket.IO, Nginx
 
 ## 📫 Get in Touch
 - **Email:** minhphuongitst@gmail.com
